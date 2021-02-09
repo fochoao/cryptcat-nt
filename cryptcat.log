@@ -1,0 +1,2195 @@
+﻿  doexec.c
+C:\Users\fochoao\source\repos\nt\doexec.c(116,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\fochoao\source\repos\nt\doexec.c(124,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\fochoao\source\repos\nt\doexec.c(213,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\fochoao\source\repos\nt\doexec.c(229,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\fochoao\source\repos\nt\doexec.c(269,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\fochoao\source\repos\nt\doexec.c(344,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\fochoao\source\repos\nt\doexec.c(396,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\fochoao\source\repos\nt\doexec.c(433,7): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+  getopt.c
+  NETCAT.C
+C:\Users\fochoao\source\repos\nt\NETCAT.C(93,1): warning C4005: 'EADDRINUSE': macro redefinition
+D:\Windows Kits\10\Include\10.0.16299.0\ucrt\errno.h(84): message : see previous definition of 'EADDRINUSE'
+C:\Users\fochoao\source\repos\nt\NETCAT.C(94,1): warning C4005: 'ETIMEDOUT': macro redefinition
+D:\Windows Kits\10\Include\10.0.16299.0\ucrt\errno.h(122): message : see previous definition of 'ETIMEDOUT'
+C:\Users\fochoao\source\repos\nt\NETCAT.C(95,1): warning C4005: 'ECONNREFUSED': macro redefinition
+D:\Windows Kits\10\Include\10.0.16299.0\ucrt\errno.h(91): message : see previous definition of 'ECONNREFUSED'
+C:\Users\fochoao\source\repos\nt\NETCAT.C(368,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(411,10): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'HANDLE'
+C:\Users\fochoao\source\repos\nt\NETCAT.C(462,1): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(467,1): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(489,7): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(539,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(551,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(554,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(573,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(583,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(640,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(659,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(681,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(815,14): warning C4996: 'dup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _dup. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(855,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1009,12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1011,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1013,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1014,12): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1113,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1125,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1030,1): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1178,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1275,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1298,9): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1546,8): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1547,12): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1415,7): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1419,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1509,1): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1544,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1555,5): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1560,8): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1562,4): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1570,5): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1592,7): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1600,1): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1617,1): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1620,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1877,20): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1896,1): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'char *'
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1882,5): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1888,11): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1896,1): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1979,1): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(1990,1): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\fochoao\source\repos\nt\NETCAT.C(2027,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  Generating Code...
+  farm9crypt.cpp
+C:\Users\fochoao\source\repos\nt\farm9crypt.cpp(145,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  twofish2.cpp
+C:\Users\fochoao\source\repos\nt\twofish2.cpp(786,11): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Starting pass 1
+  Processed /DEFAULTLIB:uuid.lib
+  Processed /DEFAULTLIB:LIBCMT
+  Processed /DEFAULTLIB:OLDNAMES
+doexec.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Searching libraries
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbc32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbccp32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\kernel32.lib:
+        Found __imp__ReadFile@20
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__WriteFile@20
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__CloseHandle@4
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__DuplicateHandle@28
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetLastError@0
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__CreatePipe@16
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__DisconnectNamedPipe@4
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__PeekNamedPipe@24
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__Sleep@4
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__WaitForMultipleObjects@16
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetCurrentProcess@0
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__TerminateProcess@8
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__CreateThread@24
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__ExitThread@4
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__TerminateThread@8
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__CreateProcessA@40
+          Referenced in doexec.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetStdHandle@4
+          Referenced in NETCAT.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__FreeConsole@0
+          Referenced in NETCAT.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __IMPORT_DESCRIPTOR_KERNEL32
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __NULL_IMPORT_DESCRIPTOR
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found KERNEL32_NULL_THUNK_DATA
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Loaded kernel32.lib(KERNEL32.dll)
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\user32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\wsock32.lib:
+        Found __imp__closesocket@4
+          Referenced in doexec.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _recv@16
+          Referenced in farm9crypt.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found ___WSAFDIsSet@8
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _accept@12
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _bind@12
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _connect@12
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _getsockname@12
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _htons@4
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _inet_addr@4
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _inet_ntoa@4
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _listen@8
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _ntohs@4
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _recvfrom@24
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _select@20
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _send@16
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _setsockopt@20
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _socket@12
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _gethostbyaddr@12
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _gethostbyname@4
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _getservbyport@8
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _getservbyname@8
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _WSAStartup@8
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _WSACleanup@0
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _WSASetLastError@4
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found _WSAGetLastError@0
+          Referenced in NETCAT.obj
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found __IMPORT_DESCRIPTOR_WSOCK32
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Loaded wsock32.lib(WSOCK32.dll)
+        Found WSOCK32_NULL_THUNK_DATA
+          Referenced in wsock32.lib(WSOCK32.dll)
+          Loaded wsock32.lib(WSOCK32.dll)
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winmm.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\gdi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winspool.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\comdlg32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\advapi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\shell32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\ole32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\oleaut32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\uuid.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\LIBCMT.lib:
+        Found @__security_check_cookie@4
+          Referenced in doexec.obj
+          Referenced in farm9crypt.obj
+          Referenced in NETCAT.obj
+          Referenced in twofish2.obj
+          Loaded LIBCMT.lib(secchk.obj)
+        Found ___security_cookie
+          Referenced in LIBCMT.lib(secchk.obj)
+          Referenced in doexec.obj
+          Referenced in farm9crypt.obj
+          Referenced in NETCAT.obj
+          Referenced in twofish2.obj
+          Loaded LIBCMT.lib(gs_cookie.obj)
+        Found "void * __cdecl operator new(unsigned int)" (??2@YAPAXI@Z)
+          Referenced in farm9crypt.obj
+          Loaded LIBCMT.lib(new_scalar.obj)
+        Found ___report_rangecheckfailure
+          Referenced in twofish2.obj
+          Loaded LIBCMT.lib(gs_report.obj)
+        Found _mainCRTStartup
+          Loaded LIBCMT.lib(exe_main.obj)
+        Found "void __cdecl __scrt_throw_std_bad_alloc(void)" (?__scrt_throw_std_bad_alloc@@YAXXZ)
+          Referenced in LIBCMT.lib(new_scalar.obj)
+          Loaded LIBCMT.lib(throw_bad_alloc.obj)
+        Found _atexit
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(utility.obj)
+        Found ___security_init_cookie
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(gs_support.obj)
+        Found __matherr
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(matherr.obj)
+        Found __get_startup_argv_mode
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Referenced in LIBCMT.lib(utility.obj)
+          Loaded LIBCMT.lib(argv_mode.obj)
+        Found __get_startup_commit_mode
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(commit_mode.obj)
+        Found __get_startup_file_mode
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(file_mode.obj)
+        Found __get_startup_new_mode
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(new_mode.obj)
+        Found __get_startup_thread_locale_mode
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(thread_locale.obj)
+        Found "void __cdecl __scrt_initialize_type_info(void)" (?__scrt_initialize_type_info@@YAXXZ)
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(tncleanup.obj)
+        Found __should_initialize_environment
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(env_mode.obj)
+        Found __initialize_default_precision
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(default_precision.obj)
+        Found __initialize_invalid_parameter_handler
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(invalid_parameter_handler.obj)
+        Found __initialize_denormal_control
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(denormal_control.obj)
+        Found ___scrt_initialize_default_local_stdio_options
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(default_local_stdio_options.obj)
+        Found ___scrt_is_user_matherr_present
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(matherr_detection.obj)
+        Found ___scrt_get_dyn_tls_init_callback
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(dyn_tls_init.obj)
+        Found ___scrt_get_dyn_tls_dtor_callback
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(dyn_tls_dtor.obj)
+        Found ___scrt_is_managed_app
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(utility_desktop.obj)
+        Found __RTC_Initialize
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(initsect.obj)
+        Found __SEH_prolog4
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Referenced in LIBCMT.lib(utility.obj)
+          Loaded LIBCMT.lib(sehprolg4.obj)
+        Found ___xi_a
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded LIBCMT.lib(initializers.obj)
+  Processed /DEFAULTLIB:kernel32.lib
+   Processed /DISALLOWLIB:msvcrt.lib
+   Processed /DISALLOWLIB:msvcrtd.lib
+   Processed /DISALLOWLIB:libcmtd.lib
+   Processed /DISALLOWLIB:vcruntime.lib
+   Processed /DISALLOWLIB:vcruntimed.lib
+  Processed /DEFAULTLIB:libvcruntime.lib
+   Processed /DISALLOWLIB:libvcruntimed.lib
+   Processed /DISALLOWLIB:ucrtd.lib
+  Processed /DEFAULTLIB:libucrt.lib
+   Processed /DISALLOWLIB:libucrtd.lib
+        Found ___guard_check_icall_fptr
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Referenced in LIBCMT.lib(utility.obj)
+          Referenced in LIBCMT.lib(initsect.obj)
+          Loaded LIBCMT.lib(guard_support.obj)
+        Found "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+          Referenced in LIBCMT.lib(throw_bad_alloc.obj)
+          Loaded LIBCMT.lib(delete_scalar_size.obj)
+        Found "const type_info::`vftable'" (??_7type_info@@6B@)
+          Referenced in LIBCMT.lib(throw_bad_alloc.obj)
+          Loaded LIBCMT.lib(std_type_info_static.obj)
+        Found ___isa_available_init
+          Referenced in LIBCMT.lib(utility.obj)
+          Loaded LIBCMT.lib(cpu_disp.obj)
+        Found ___scrt_is_ucrt_dll_in_use
+          Referenced in LIBCMT.lib(utility.obj)
+          Loaded LIBCMT.lib(ucrt_detection.obj)
+        Found "void __cdecl operator delete(void *)" (??3@YAXPAX@Z)
+          Referenced in LIBCMT.lib(delete_scalar_size.obj)
+          Loaded LIBCMT.lib(delete_scalar.obj)
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\OLDNAMES.lib:
+        Found _itoa
+          Referenced in doexec.obj
+          Loaded OLDNAMES.lib(itoa.obj)
+        Found _strnicmp
+          Referenced in doexec.obj
+          Loaded OLDNAMES.lib(strnicmp.obj)
+        Found _strcmpi
+          Referenced in NETCAT.obj
+          Loaded OLDNAMES.lib(strcmpi.obj)
+        Found _close
+          Referenced in NETCAT.obj
+          Loaded OLDNAMES.lib(close.obj)
+        Found _dup
+          Referenced in NETCAT.obj
+          Loaded OLDNAMES.lib(dup.obj)
+        Found _open
+          Referenced in NETCAT.obj
+          Loaded OLDNAMES.lib(open.obj)
+        Found _read
+          Referenced in NETCAT.obj
+          Loaded OLDNAMES.lib(read.obj)
+        Found _write
+          Referenced in NETCAT.obj
+          Loaded OLDNAMES.lib(write.obj)
+        Found _kbhit
+          Referenced in NETCAT.obj
+          Loaded OLDNAMES.lib(kbhit.obj)
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\libvcruntime.lib:
+        Found _memcpy
+          Referenced in farm9crypt.obj
+          Referenced in twofish2.obj
+          Loaded libvcruntime.lib(memcpy.obj)
+        Found _strchr
+          Referenced in NETCAT.obj
+          Loaded libvcruntime.lib(strchr.obj)
+        Found _longjmp
+          Referenced in NETCAT.obj
+          Loaded libvcruntime.lib(longjmpc.obj)
+        Found __setjmp3
+          Referenced in NETCAT.obj
+          Loaded libvcruntime.lib(setjmp3.obj)
+        Found _memset
+          Referenced in NETCAT.obj
+          Referenced in twofish2.obj
+          Referenced in LIBCMT.lib(utility_desktop.obj)
+          Loaded libvcruntime.lib(memset.obj)
+        Found __except_handler4
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Referenced in LIBCMT.lib(utility.obj)
+          Referenced in LIBCMT.lib(sehprolg4.obj)
+          Loaded libvcruntime.lib(chandler4.obj)
+        Found ___std_exception_copy
+          Referenced in LIBCMT.lib(throw_bad_alloc.obj)
+          Loaded libvcruntime.lib(std_exception.obj)
+        Found __CxxThrowException@8
+          Referenced in LIBCMT.lib(throw_bad_alloc.obj)
+          Loaded libvcruntime.lib(throw.obj)
+        Found ___vcrt_initialize
+          Referenced in LIBCMT.lib(utility.obj)
+          Loaded libvcruntime.lib(initialization.obj)
+        Found ___std_type_info_destroy_list
+          Referenced in LIBCMT.lib(tncleanup.obj)
+          Loaded libvcruntime.lib(std_type_info.obj)
+        Found ___current_exception
+          Referenced in LIBCMT.lib(utility_desktop.obj)
+          Loaded libvcruntime.lib(ehhelpers.obj)
+        Found ___longjmp_internal
+          Referenced in libvcruntime.lib(longjmpc.obj)
+          Loaded libvcruntime.lib(longjmp.obj)
+        Found ___except_validate_jump_buffer
+          Referenced in libvcruntime.lib(longjmpc.obj)
+          Loaded libvcruntime.lib(jbcxrval.obj)
+        Found __except_list
+          Referenced in libvcruntime.lib(setjmp3.obj)
+          Referenced in libvcruntime.lib(longjmp.obj)
+          Loaded libvcruntime.lib(exsup.obj)
+        Found @_EH4_CallFilterFunc@8
+          Referenced in libvcruntime.lib(chandler4.obj)
+          Loaded libvcruntime.lib(exsup4.obj)
+        Found ___vcrt_initialize_ptd
+          Referenced in libvcruntime.lib(initialization.obj)
+          Loaded libvcruntime.lib(per_thread_data.obj)
+        Found ___vcrt_initialize_locks
+          Referenced in libvcruntime.lib(initialization.obj)
+          Loaded libvcruntime.lib(locks.obj)
+        Found ___unDName
+          Referenced in libvcruntime.lib(std_type_info.obj)
+          Loaded libvcruntime.lib(undname.obj)
+        Found __rt_probe_read4@4
+          Referenced in libvcruntime.lib(longjmp.obj)
+          Loaded libvcruntime.lib(sehsupp.obj)
+        Found ___vcrt_FlsAlloc
+          Referenced in libvcruntime.lib(per_thread_data.obj)
+          Loaded libvcruntime.lib(winapi_downlevel.obj)
+        Found __purecall
+          Referenced in libvcruntime.lib(undname.obj)
+          Loaded libvcruntime.lib(purevirt.obj)
+        Found ___CxxFrameHandler3
+          Referenced in libvcruntime.lib(undname.obj)
+          Loaded libvcruntime.lib(trnsctrl.obj)
+        Found ___pPurecall
+          Referenced in libvcruntime.lib(purevirt.obj)
+          Loaded libvcruntime.lib(purevirt_data.obj)
+        Found "public: static void __cdecl __FrameHandler3::FrameUnwindToState(struct EHRegistrationNode *,void *,struct _s_FuncInfo const *,int)" (?FrameUnwindToState@__FrameHandler3@@SAXPAUEHRegistrationNode@@PAXPBU_s_FuncInfo@@H@Z)
+          Referenced in libvcruntime.lib(trnsctrl.obj)
+          Loaded libvcruntime.lib(frame.obj)
+        Found __CallSettingFrame@12
+          Referenced in libvcruntime.lib(trnsctrl.obj)
+          Referenced in libvcruntime.lib(frame.obj)
+          Loaded libvcruntime.lib(lowhelpr.obj)
+        Found _unexpected
+          Referenced in libvcruntime.lib(frame.obj)
+          Loaded libvcruntime.lib(unexpected.obj)
+        Found "public: static int __cdecl __FrameHandler3::GetCurrentState(struct EHRegistrationNode *,void *,struct _s_FuncInfo const *)" (?GetCurrentState@__FrameHandler3@@SAHPAUEHRegistrationNode@@PAXPBU_s_FuncInfo@@@Z)
+          Referenced in libvcruntime.lib(frame.obj)
+          Loaded libvcruntime.lib(ehstate.obj)
+        Found _memmove
+          Referenced in libvcruntime.lib(frame.obj)
+          Loaded libvcruntime.lib(memmove.obj)
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\ucrt\x86\libucrt.lib:
+        Found _free
+          Referenced in libvcruntime.lib(per_thread_data.obj)
+          Referenced in doexec.obj
+          Referenced in LIBCMT.lib(delete_scalar.obj)
+          Referenced in libvcruntime.lib(std_exception.obj)
+          Referenced in libvcruntime.lib(std_type_info.obj)
+          Loaded libucrt.lib(free.obj)
+        Found _malloc
+          Referenced in libvcruntime.lib(std_type_info.obj)
+          Referenced in doexec.obj
+          Referenced in NETCAT.obj
+          Referenced in LIBCMT.lib(new_scalar.obj)
+          Referenced in libvcruntime.lib(std_exception.obj)
+          Loaded libucrt.lib(malloc.obj)
+        Found _srand
+          Referenced in farm9crypt.obj
+          Referenced in NETCAT.obj
+          Loaded libucrt.lib(rand.obj)
+        Found _atoi
+          Referenced in farm9crypt.obj
+          Referenced in NETCAT.obj
+          Loaded libucrt.lib(atox.obj)
+        Found ___stdio_common_vsprintf
+          Referenced in farm9crypt.obj
+          Referenced in NETCAT.obj
+          Referenced in twofish2.obj
+          Loaded libucrt.lib(output.obj)
+        Found ___acrt_iob_func
+          Referenced in getopt.obj
+          Referenced in NETCAT.obj
+          Referenced in twofish2.obj
+          Loaded libucrt.lib(_file.obj)
+        Found _strncmp
+          Referenced in getopt.obj
+          Referenced in libvcruntime.lib(undname.obj)
+          Loaded libucrt.lib(strncmp.obj)
+        Found _getenv
+          Referenced in getopt.obj
+          Loaded libucrt.lib(getenv.obj)
+        Found __errno
+          Referenced in libucrt.lib(getenv.obj)
+          Referenced in NETCAT.obj
+          Referenced in libucrt.lib(atox.obj)
+          Referenced in libucrt.lib(output.obj)
+          Referenced in libucrt.lib(_file.obj)
+          Loaded libucrt.lib(errno.obj)
+        Found _exit
+          Referenced in NETCAT.obj
+          Referenced in twofish2.obj
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded libucrt.lib(exit.obj)
+        Found __sleep
+          Referenced in NETCAT.obj
+          Loaded libucrt.lib(slbeep.obj)
+        Found _strncpy
+          Referenced in NETCAT.obj
+          Loaded libucrt.lib(strncpy.obj)
+        Found __time64
+          Referenced in NETCAT.obj
+          Loaded libucrt.lib(time.obj)
+        Found __isatty
+          Referenced in NETCAT.obj
+          Loaded libucrt.lib(isatty.obj)
+        Found __setmode
+          Referenced in NETCAT.obj
+          Loaded libucrt.lib(setmode.obj)
+        Found _fflush
+          Referenced in NETCAT.obj
+          Loaded libucrt.lib(fflush.obj)
+        Found _gets
+          Referenced in NETCAT.obj
+          Loaded libucrt.lib(gets.obj)
+        Found _fputc
+          Referenced in twofish2.obj
+          Loaded libucrt.lib(fputc.obj)
+        Found __callnewh
+          Referenced in LIBCMT.lib(new_scalar.obj)
+          Loaded libucrt.lib(new_handler.obj)
+        Found __seh_filter_exe
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded libucrt.lib(exception_filter.obj)
+        Found __set_app_type
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded libucrt.lib(report_runtime_error.obj)
+        Found ___setusermatherr
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded libucrt.lib(matherr.obj)
+        Found __configure_narrow_argv
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Referenced in LIBCMT.lib(utility.obj)
+          Loaded libucrt.lib(argv_parsing.obj)
+        Found __initialize_narrow_environment
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Referenced in LIBCMT.lib(utility.obj)
+          Loaded libucrt.lib(environment_initialization.obj)
+        Found __initterm
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Referenced in libucrt.lib(exit.obj)
+          Loaded libucrt.lib(initterm.obj)
+        Found ___p___argc
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded libucrt.lib(argv_data.obj)
+        Found __configthreadlocale
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded libucrt.lib(wsetlocale.obj)
+        Found __set_new_mode
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded libucrt.lib(new_mode.obj)
+        Found ___p__commode
+          Referenced in LIBCMT.lib(exe_main.obj)
+          Loaded libucrt.lib(ncommode.obj)
+        Found __initialize_onexit_table
+          Referenced in LIBCMT.lib(utility.obj)
+          Loaded libucrt.lib(onexit.obj)
+        Found ___acrt_initialize
+          Referenced in LIBCMT.lib(utility.obj)
+          Loaded libucrt.lib(initialization.obj)
+        Found __controlfp_s
+          Referenced in LIBCMT.lib(default_precision.obj)
+          Loaded libucrt.lib(contrlfp.obj)
+        Found _terminate
+          Referenced in libucrt.lib(exit.obj)
+          Referenced in LIBCMT.lib(utility_desktop.obj)
+          Referenced in libvcruntime.lib(ehhelpers.obj)
+          Referenced in libvcruntime.lib(frame.obj)
+          Referenced in libvcruntime.lib(unexpected.obj)
+          Loaded libucrt.lib(terminate.obj)
+        Found __itoa
+          Referenced in OLDNAMES.lib(itoa.obj)
+          Loaded libucrt.lib(xtoa.obj)
+        Found __strnicmp
+          Referenced in OLDNAMES.lib(strnicmp.obj)
+          Loaded libucrt.lib(strnicmp.obj)
+        Found __stricmp
+          Referenced in OLDNAMES.lib(strcmpi.obj)
+          Loaded libucrt.lib(stricmp.obj)
+        Found __close
+          Referenced in OLDNAMES.lib(close.obj)
+          Loaded libucrt.lib(close.obj)
+        Found __dup
+          Referenced in OLDNAMES.lib(dup.obj)
+          Loaded libucrt.lib(dup.obj)
+        Found __open
+          Referenced in OLDNAMES.lib(open.obj)
+          Loaded libucrt.lib(open.obj)
+        Found __read
+          Referenced in OLDNAMES.lib(read.obj)
+          Loaded libucrt.lib(read.obj)
+        Found __write
+          Referenced in OLDNAMES.lib(write.obj)
+          Referenced in libucrt.lib(fflush.obj)
+          Referenced in libucrt.lib(open.obj)
+          Loaded libucrt.lib(write.obj)
+        Found __kbhit
+          Referenced in OLDNAMES.lib(kbhit.obj)
+          Loaded libucrt.lib(getch.obj)
+        Found _strcpy_s
+          Referenced in libvcruntime.lib(std_exception.obj)
+          Referenced in libvcruntime.lib(std_type_info.obj)
+          Referenced in libucrt.lib(getenv.obj)
+          Referenced in libucrt.lib(environment_initialization.obj)
+          Loaded libucrt.lib(strcpy_s.obj)
+        Found _abort
+          Referenced in libvcruntime.lib(frame.obj)
+          Referenced in libucrt.lib(terminate.obj)
+          Referenced in libvcruntime.lib(ehhelpers.obj)
+          Referenced in libvcruntime.lib(per_thread_data.obj)
+          Referenced in libvcruntime.lib(purevirt.obj)
+          Referenced in libvcruntime.lib(trnsctrl.obj)
+          Loaded libucrt.lib(abort.obj)
+        Found _calloc
+          Referenced in libvcruntime.lib(per_thread_data.obj)
+          Referenced in libucrt.lib(getenv.obj)
+          Loaded libucrt.lib(calloc.obj)
+        Found _wcsncmp
+          Referenced in libvcruntime.lib(winapi_downlevel.obj)
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(wcsncmp.obj)
+        Found __free_base
+          Referenced in libucrt.lib(open.obj)
+          Referenced in libucrt.lib(read.obj)
+          Referenced in libucrt.lib(getch.obj)
+          Referenced in libucrt.lib(environment_initialization.obj)
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Referenced in libucrt.lib(onexit.obj)
+          Referenced in libucrt.lib(initialization.obj)
+          Referenced in libucrt.lib(free.obj)
+          Referenced in libucrt.lib(output.obj)
+          Referenced in libucrt.lib(_file.obj)
+          Referenced in libucrt.lib(argv_parsing.obj)
+          Loaded libucrt.lib(free_base.obj)
+        Found __malloc_base
+          Referenced in libucrt.lib(getch.obj)
+          Referenced in libucrt.lib(malloc.obj)
+          Referenced in libucrt.lib(output.obj)
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Referenced in libucrt.lib(read.obj)
+          Loaded libucrt.lib(malloc_base.obj)
+        Found ___acrt_getptd
+          Referenced in libucrt.lib(terminate.obj)
+          Referenced in libucrt.lib(strnicmp.obj)
+          Referenced in libucrt.lib(stricmp.obj)
+          Referenced in libucrt.lib(write.obj)
+          Referenced in libucrt.lib(rand.obj)
+          Referenced in libucrt.lib(atox.obj)
+          Referenced in libucrt.lib(output.obj)
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(per_thread_data.obj)
+        Found __invalid_parameter_noinfo
+          Referenced in libucrt.lib(open.obj)
+          Referenced in libucrt.lib(read.obj)
+          Referenced in libucrt.lib(write.obj)
+          Referenced in libucrt.lib(strcpy_s.obj)
+          Referenced in libucrt.lib(strnicmp.obj)
+          Referenced in libucrt.lib(stricmp.obj)
+          Referenced in libucrt.lib(close.obj)
+          Referenced in libucrt.lib(dup.obj)
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Referenced in libucrt.lib(new_mode.obj)
+          Referenced in libucrt.lib(contrlfp.obj)
+          Referenced in libucrt.lib(xtoa.obj)
+          Referenced in libucrt.lib(gets.obj)
+          Referenced in libucrt.lib(fputc.obj)
+          Referenced in libucrt.lib(argv_parsing.obj)
+          Referenced in libucrt.lib(argv_data.obj)
+          Referenced in libucrt.lib(errno.obj)
+          Referenced in libucrt.lib(time.obj)
+          Referenced in libucrt.lib(isatty.obj)
+          Referenced in libucrt.lib(setmode.obj)
+          Referenced in libucrt.lib(atox.obj)
+          Referenced in libucrt.lib(output.obj)
+          Referenced in libucrt.lib(_file.obj)
+          Referenced in libucrt.lib(getenv.obj)
+          Loaded libucrt.lib(invalid_parameter.obj)
+        Found ___pctype_func
+          Referenced in libucrt.lib(atox.obj)
+          Referenced in libucrt.lib(write.obj)
+          Loaded libucrt.lib(ctype.obj)
+        Found _iswctype
+          Referenced in libucrt.lib(atox.obj)
+          Loaded libucrt.lib(iswctype.obj)
+        Found __isctype_l
+          Referenced in libucrt.lib(atox.obj)
+          Loaded libucrt.lib(isctype.obj)
+        Found ___acrt_update_locale_info
+          Referenced in libucrt.lib(ctype.obj)
+          Referenced in libucrt.lib(isctype.obj)
+          Referenced in libucrt.lib(atox.obj)
+          Referenced in libucrt.lib(output.obj)
+          Referenced in libucrt.lib(strnicmp.obj)
+          Referenced in libucrt.lib(stricmp.obj)
+          Loaded libucrt.lib(locale_update.obj)
+        Found ___acrt_initial_locale_pointers
+          Referenced in libucrt.lib(isctype.obj)
+          Referenced in libucrt.lib(atox.obj)
+          Referenced in libucrt.lib(output.obj)
+          Referenced in libucrt.lib(strnicmp.obj)
+          Referenced in libucrt.lib(stricmp.obj)
+          Loaded libucrt.lib(nlsdata.obj)
+        Found _isdigit
+          Referenced in libucrt.lib(output.obj)
+          Loaded libucrt.lib(_ctype.obj)
+        Found _tolower
+          Referenced in libucrt.lib(output.obj)
+          Loaded libucrt.lib(tolower_toupper.obj)
+        Found _wcstol
+          Referenced in libucrt.lib(output.obj)
+          Loaded libucrt.lib(strtox.obj)
+        Found __mbtowc_l
+          Referenced in libucrt.lib(output.obj)
+          Loaded libucrt.lib(mbtowc.obj)
+        Found _wctomb_s
+          Referenced in libucrt.lib(output.obj)
+          Loaded libucrt.lib(wctomb.obj)
+        Found _wcsnlen
+          Referenced in libucrt.lib(output.obj)
+          Referenced in libucrt.lib(getenv.obj)
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(strnlen.obj)
+        Found ___acrt_fp_format
+          Referenced in libucrt.lib(output.obj)
+          Loaded libucrt.lib(cvt.obj)
+        Found __fputwc_nolock
+          Referenced in libucrt.lib(output.obj)
+          Loaded libucrt.lib(fputwc.obj)
+        Found __fileno
+          Referenced in libucrt.lib(fputwc.obj)
+          Referenced in libucrt.lib(output.obj)
+          Referenced in libucrt.lib(fflush.obj)
+          Referenced in libucrt.lib(gets.obj)
+          Referenced in libucrt.lib(fputc.obj)
+          Loaded libucrt.lib(fileno.obj)
+        Found __get_printf_count_output
+          Referenced in libucrt.lib(output.obj)
+          Loaded libucrt.lib(printf_count_output.obj)
+        Found ___acrt_stdio_begin_temporary_buffering_nolock
+          Referenced in libucrt.lib(output.obj)
+          Loaded libucrt.lib(_sftbuf.obj)
+        Found ___badioinfo
+          Referenced in libucrt.lib(output.obj)
+          Referenced in libucrt.lib(gets.obj)
+          Referenced in libucrt.lib(fputc.obj)
+          Referenced in libucrt.lib(fputwc.obj)
+          Loaded libucrt.lib(ioinit.obj)
+        Found __calloc_base
+          Referenced in libucrt.lib(calloc.obj)
+          Referenced in libucrt.lib(per_thread_data.obj)
+          Referenced in libucrt.lib(_file.obj)
+          Referenced in libucrt.lib(argv_parsing.obj)
+          Referenced in libucrt.lib(environment_initialization.obj)
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(calloc_base.obj)
+        Found ___acrt_InitializeCriticalSectionEx@12
+          Referenced in libucrt.lib(_file.obj)
+          Loaded libucrt.lib(winapi_thunks.obj)
+        Found __fcloseall
+          Referenced in libucrt.lib(_file.obj)
+          Loaded libucrt.lib(closeall.obj)
+        Found ___acrt_stdio_free_buffer_nolock
+          Referenced in libucrt.lib(_file.obj)
+          Loaded libucrt.lib(_freebuf.obj)
+        Found ___acrt_stdio_initializer
+          Referenced in libucrt.lib(_file.obj)
+          Loaded libucrt.lib(stdio_initializer.obj)
+        Found _wcscpy_s
+          Referenced in libucrt.lib(getenv.obj)
+          Referenced in libucrt.lib(report_runtime_error.obj)
+          Referenced in libucrt.lib(environment_initialization.obj)
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(wcscpy_s.obj)
+        Found __wcsnicoll
+          Referenced in libucrt.lib(getenv.obj)
+          Loaded libucrt.lib(wcsnicol.obj)
+        Found __strnicoll
+          Referenced in libucrt.lib(getenv.obj)
+          Loaded libucrt.lib(strnicol.obj)
+        Found ___acrt_lock
+          Referenced in libucrt.lib(ioinit.obj)
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Referenced in libucrt.lib(closeall.obj)
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Referenced in libucrt.lib(onexit.obj)
+          Referenced in libucrt.lib(getch.obj)
+          Referenced in libucrt.lib(per_thread_data.obj)
+          Referenced in libucrt.lib(getenv.obj)
+          Referenced in libucrt.lib(exit.obj)
+          Referenced in libucrt.lib(fflush.obj)
+          Referenced in libucrt.lib(new_handler.obj)
+          Loaded libucrt.lib(locks.obj)
+        Found ___acrt_get_process_end_policy
+          Referenced in libucrt.lib(exit.obj)
+          Loaded libucrt.lib(win_policies.obj)
+        Found ___acrt_lowio_lock_fh
+          Referenced in libucrt.lib(write.obj)
+          Referenced in libucrt.lib(setmode.obj)
+          Referenced in libucrt.lib(close.obj)
+          Referenced in libucrt.lib(dup.obj)
+          Referenced in libucrt.lib(read.obj)
+          Loaded libucrt.lib(osfinfo.obj)
+        Found __fmode
+          Referenced in libucrt.lib(setmode.obj)
+          Loaded libucrt.lib(txtmode.obj)
+        Found __commit
+          Referenced in libucrt.lib(fflush.obj)
+          Loaded libucrt.lib(commit.obj)
+        Found __getwc_nolock
+          Referenced in libucrt.lib(gets.obj)
+          Loaded libucrt.lib(fgetwc.obj)
+        Found __getc_nolock
+          Referenced in libucrt.lib(gets.obj)
+          Referenced in libucrt.lib(fgetwc.obj)
+          Loaded libucrt.lib(fgetc.obj)
+        Found ___acrt_stdio_flush_and_write_narrow_nolock
+          Referenced in libucrt.lib(fputc.obj)
+          Loaded libucrt.lib(_flsbuf.obj)
+        Found __set_error_mode
+          Referenced in libucrt.lib(report_runtime_error.obj)
+          Loaded libucrt.lib(set_error_mode.obj)
+        Found _wcscat_s
+          Referenced in libucrt.lib(report_runtime_error.obj)
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(wcscat_s.obj)
+        Found _wcsncpy_s
+          Referenced in libucrt.lib(report_runtime_error.obj)
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(wcsncpy_s.obj)
+        Found ___acrt_show_wide_message_box
+          Referenced in libucrt.lib(report_runtime_error.obj)
+          Loaded libucrt.lib(crtmbox.obj)
+        Found ___acrt_expand_narrow_argv_wildcards
+          Referenced in libucrt.lib(argv_parsing.obj)
+          Loaded libucrt.lib(argv_wildcards.obj)
+        Found ___acrt_initialize_multibyte
+          Referenced in libucrt.lib(argv_parsing.obj)
+          Referenced in libucrt.lib(environment_initialization.obj)
+          Referenced in libucrt.lib(initialization.obj)
+          Loaded libucrt.lib(mbctype.obj)
+        Found __ismbblead
+          Referenced in libucrt.lib(argv_parsing.obj)
+          Loaded libucrt.lib(ismbbyte.obj)
+        Found ___dcrt_get_narrow_environment_from_os
+          Referenced in libucrt.lib(environment_initialization.obj)
+          Loaded libucrt.lib(get_environment_from_os.obj)
+        Found ___dcrt_set_variable_in_narrow_environment_nolock
+          Referenced in libucrt.lib(environment_initialization.obj)
+          Loaded libucrt.lib(setenv.obj)
+        Found ___acrt_locale_initialize_ctype
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(initctype.obj)
+        Found ___acrt_locale_initialize_monetary
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(initmon.obj)
+        Found ___acrt_locale_initialize_numeric
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(initnum.obj)
+        Found ___acrt_locale_initialize_time
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(inittime.obj)
+        Found _wcscspn
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(wcscspn.obj)
+        Found _wcspbrk
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Referenced in libucrt.lib(argv_wildcards.obj)
+          Loaded libucrt.lib(wcspbrk.obj)
+        Found ___acrt_GetStringTypeA
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Referenced in libucrt.lib(isctype.obj)
+          Referenced in libucrt.lib(mbctype.obj)
+          Referenced in libucrt.lib(initctype.obj)
+          Loaded libucrt.lib(getstringtypea.obj)
+        Found ___acrt_add_locale_ref
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Referenced in libucrt.lib(per_thread_data.obj)
+          Loaded libucrt.lib(locale_refcounting.obj)
+        Found ___acrt_get_qualified_locale
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(get_qualified_locale.obj)
+        Found ___acrt_get_qualified_locale_downlevel
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(getqloc_downlevel.obj)
+        Found ___acrt_lconv
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(localeconv.obj)
+        Found ___globallocalestatus
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Referenced in libucrt.lib(locale_update.obj)
+          Referenced in libucrt.lib(mbctype.obj)
+          Referenced in libucrt.lib(locale_refcounting.obj)
+          Loaded libucrt.lib(glstatus.obj)
+        Found ___acrt_locale_terminator
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libucrt.lib(locale_initializer.obj)
+        Found __recalloc
+          Referenced in libucrt.lib(onexit.obj)
+          Referenced in libucrt.lib(argv_wildcards.obj)
+          Referenced in libucrt.lib(setenv.obj)
+          Loaded libucrt.lib(recalloc.obj)
+        Found ___acrt_initialize_heap
+          Referenced in libucrt.lib(initialization.obj)
+          Loaded libucrt.lib(heap_handle.obj)
+        Found ___acrt_execute_initializers
+          Referenced in libucrt.lib(initialization.obj)
+          Loaded libucrt.lib(shared_initialization.obj)
+        Found ___acrt_initialize_signal_handlers
+          Referenced in libucrt.lib(initialization.obj)
+          Loaded libucrt.lib(signal.obj)
+        Found __control87
+          Referenced in libucrt.lib(contrlfp.obj)
+          Loaded libucrt.lib(ieee87.obj)
+        Found ___ascii_strnicmp
+          Referenced in libucrt.lib(strnicmp.obj)
+          Loaded libucrt.lib(_strnicm.obj)
+        Found ___acrt_copy_path_to_wide_string
+          Referenced in libucrt.lib(open.obj)
+          Loaded libucrt.lib(string_utilities.obj)
+        Found __chsize_nolock
+          Referenced in libucrt.lib(open.obj)
+          Loaded libucrt.lib(chsize.obj)
+        Found __lseeki64_nolock
+          Referenced in libucrt.lib(open.obj)
+          Referenced in libucrt.lib(read.obj)
+          Referenced in libucrt.lib(write.obj)
+          Referenced in libucrt.lib(chsize.obj)
+          Loaded libucrt.lib(lseek.obj)
+        Found __umaskval
+          Referenced in libucrt.lib(open.obj)
+          Loaded libucrt.lib(umask.obj)
+        Found __putwch_nolock
+          Referenced in libucrt.lib(write.obj)
+          Loaded libucrt.lib(putwch.obj)
+        Found __putch_nolock
+          Referenced in libucrt.lib(getch.obj)
+          Loaded libucrt.lib(putch.obj)
+        Found ___dcrt_lowio_ensure_console_input_initialized
+          Referenced in libucrt.lib(getch.obj)
+          Loaded libucrt.lib(initconin.obj)
+        Found ___acrt_GetStringTypeW
+          Referenced in libucrt.lib(iswctype.obj)
+          Loaded libucrt.lib(getstringtypew.obj)
+        Found __isleadbyte_l
+          Referenced in libucrt.lib(isctype.obj)
+          Referenced in libucrt.lib(tolower_toupper.obj)
+          Referenced in libucrt.lib(mbtowc.obj)
+          Loaded libucrt.lib(_wctype.obj)
+        Found ___acrt_LCMapStringA
+          Referenced in libucrt.lib(tolower_toupper.obj)
+          Referenced in libucrt.lib(mbctype.obj)
+          Referenced in libucrt.lib(initctype.obj)
+          Loaded libucrt.lib(lcmapstringa.obj)
+        Found ___acrt_MultiByteToWideChar
+          Referenced in libucrt.lib(mbtowc.obj)
+          Loaded libucrt.lib(multibytetowidechar.obj)
+        Found ___acrt_WideCharToMultiByte
+          Referenced in libucrt.lib(wctomb.obj)
+          Loaded libucrt.lib(widechartomultibyte.obj)
+        Found ___acrt_fp_strflt_to_string
+          Referenced in libucrt.lib(cvt.obj)
+          Loaded libucrt.lib(_fptostr.obj)
+        Found ___acrt_fltout
+          Referenced in libucrt.lib(cvt.obj)
+          Loaded libucrt.lib(cfout.obj)
+        Found ___acrt_DownlevelLocaleNameToLCID
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded libucrt.lib(lcidtoname_downlevel.obj)
+        Found _fclose
+          Referenced in libucrt.lib(closeall.obj)
+          Loaded libucrt.lib(fclose.obj)
+        Found ___acrt_CompareStringW
+          Referenced in libucrt.lib(wcsnicol.obj)
+          Loaded libucrt.lib(comparestringw.obj)
+        Found ___acrt_CompareStringA
+          Referenced in libucrt.lib(strnicol.obj)
+          Loaded libucrt.lib(comparestringa.obj)
+        Found _ungetc
+          Referenced in libucrt.lib(fgetwc.obj)
+          Loaded libucrt.lib(ungetc.obj)
+        Found ___acrt_stdio_refill_and_read_wide_nolock
+          Referenced in libucrt.lib(fgetwc.obj)
+          Loaded libucrt.lib(_filbuf.obj)
+        Found ___acrt_stdio_allocate_buffer_nolock
+          Referenced in libucrt.lib(_flsbuf.obj)
+          Referenced in libucrt.lib(ungetc.obj)
+          Referenced in libucrt.lib(_filbuf.obj)
+          Loaded libucrt.lib(_getbuf.obj)
+        Found _qsort
+          Referenced in libucrt.lib(argv_wildcards.obj)
+          Loaded libucrt.lib(qsort.obj)
+        Found _strncpy_s
+          Referenced in libucrt.lib(argv_wildcards.obj)
+          Loaded libucrt.lib(strncpy_s.obj)
+        Found _strpbrk
+          Referenced in libucrt.lib(argv_wildcards.obj)
+          Loaded libucrt.lib(strpbrk.obj)
+        Found __mbsdec
+          Referenced in libucrt.lib(argv_wildcards.obj)
+          Loaded libucrt.lib(mbsdec.obj)
+        Found ___acrt_multibyte_initializer
+          Referenced in libucrt.lib(mbctype.obj)
+          Loaded libucrt.lib(multibyte_initializer.obj)
+        Found ___acrt_GetLocaleInfoA
+          Referenced in libucrt.lib(initctype.obj)
+          Referenced in libucrt.lib(initmon.obj)
+          Referenced in libucrt.lib(initnum.obj)
+          Referenced in libucrt.lib(inittime.obj)
+          Loaded libucrt.lib(getlocaleinfoa.obj)
+        Found __wcsicmp
+          Referenced in libucrt.lib(get_qualified_locale.obj)
+          Referenced in libucrt.lib(getqloc_downlevel.obj)
+          Loaded libucrt.lib(wcsicmp.obj)
+        Found __wcsnicmp
+          Referenced in libucrt.lib(get_qualified_locale.obj)
+          Referenced in libucrt.lib(getqloc_downlevel.obj)
+          Loaded libucrt.lib(wcsnicmp.obj)
+        Found __msize
+          Referenced in libucrt.lib(recalloc.obj)
+          Loaded libucrt.lib(msize.obj)
+        Found __realloc_base
+          Referenced in libucrt.lib(recalloc.obj)
+          Loaded libucrt.lib(realloc_base.obj)
+        Found ___get_fpsr_sse2
+          Referenced in libucrt.lib(ieee87.obj)
+          Loaded libucrt.lib(fpctrl.obj)
+        Found ___dcrt_lowio_ensure_console_output_initialized
+          Referenced in libucrt.lib(putwch.obj)
+          Loaded libucrt.lib(initcon.obj)
+        Found ___dcrt_console_input_terminator
+          Referenced in libucrt.lib(initconin.obj)
+          Loaded libucrt.lib(console_input_initializer.obj)
+        Found ___strncnt
+          Referenced in libucrt.lib(lcmapstringa.obj)
+          Referenced in libucrt.lib(comparestringa.obj)
+          Loaded libucrt.lib(strncnt.obj)
+        Found _fegetenv
+          Referenced in libucrt.lib(cfout.obj)
+          Loaded libucrt.lib(fegetenv.obj)
+        Found _fesetenv
+          Referenced in libucrt.lib(cfout.obj)
+          Loaded libucrt.lib(fesetenv.obj)
+        Found _feholdexcept
+          Referenced in libucrt.lib(cfout.obj)
+          Loaded libucrt.lib(feholdexcept.obj)
+        Found __CIlog10
+          Referenced in libucrt.lib(cfout.obj)
+          Loaded libucrt.lib(log10_impl.obj)
+        Found _ceil
+          Referenced in libucrt.lib(cfout.obj)
+          Loaded libucrt.lib(ceil_pentium4.obj)
+        Found "void __cdecl __acrt_stdio_free_stream(class __crt_stdio_stream)" (?__acrt_stdio_free_stream@@YAXV__crt_stdio_stream@@@Z)
+          Referenced in libucrt.lib(fclose.obj)
+          Loaded libucrt.lib(stream.obj)
+        Found __towlower_l
+          Referenced in libucrt.lib(wcsicmp.obj)
+          Referenced in libucrt.lib(wcsnicmp.obj)
+          Loaded libucrt.lib(towlower.obj)
+        Found ___dcrt_console_output_terminator
+          Referenced in libucrt.lib(initcon.obj)
+          Loaded libucrt.lib(console_output_initializer.obj)
+        Found ___acrt_fenv_get_status
+          Referenced in libucrt.lib(fegetenv.obj)
+          Loaded libucrt.lib(_fenvutils.obj)
+        Found ___use_sse2_mathfcns
+          Referenced in libucrt.lib(log10_impl.obj)
+          Referenced in libucrt.lib(ceil_pentium4.obj)
+          Loaded libucrt.lib(mathfcns.obj)
+        Found __CIlog10_pentium4
+          Referenced in libucrt.lib(log10_impl.obj)
+          Loaded libucrt.lib(log10_pentium4.obj)
+        Found __infinity
+          Referenced in libucrt.lib(log10_impl.obj)
+          Loaded libucrt.lib(87tran.obj)
+        Found __indefinite
+          Referenced in libucrt.lib(log10_impl.obj)
+          Loaded libucrt.lib(87disp.obj)
+        Found ___fastflag
+          Referenced in libucrt.lib(log10_impl.obj)
+          Loaded libucrt.lib(fp_flags.obj)
+        Found __DEFAULT_CW_in_mem
+          Referenced in libucrt.lib(log10_impl.obj)
+          Loaded libucrt.lib(common.obj)
+        Found __startOneArgErrorHandling
+          Referenced in libucrt.lib(log10_impl.obj)
+          Referenced in libucrt.lib(common.obj)
+          Loaded libucrt.lib(genexcep.obj)
+        Found ___libm_error_support
+          Referenced in libucrt.lib(ceil_pentium4.obj)
+          Referenced in libucrt.lib(log10_pentium4.obj)
+          Loaded libucrt.lib(libm_error.obj)
+        Found __ceil_default
+          Referenced in libucrt.lib(ceil_pentium4.obj)
+          Loaded libucrt.lib(ceil.obj)
+        Found ___acrt_LCMapStringW
+          Referenced in libucrt.lib(towlower.obj)
+          Loaded libucrt.lib(lcmapstringw.obj)
+        Found ___acrt_tran_sse2_initializer
+          Referenced in libucrt.lib(mathfcns.obj)
+          Loaded libucrt.lib(sse2_initializer.obj)
+        Found ___acrt_log10_table_t
+          Referenced in libucrt.lib(log10_pentium4.obj)
+          Loaded libucrt.lib(log10_tables.obj)
+        Found __powhlp
+          Referenced in libucrt.lib(87tran.obj)
+          Loaded libucrt.lib(powhlp.obj)
+        Found __87except
+          Referenced in libucrt.lib(genexcep.obj)
+          Loaded libucrt.lib(87except.obj)
+        Found __frnd
+          Referenced in libucrt.lib(ceil.obj)
+          Referenced in libucrt.lib(powhlp.obj)
+          Loaded libucrt.lib(frnd.obj)
+        Found __except1
+          Referenced in libucrt.lib(ceil.obj)
+          Loaded libucrt.lib(fpexcept.obj)
+        Found __sptype
+          Referenced in libucrt.lib(ceil.obj)
+          Loaded libucrt.lib(util.obj)
+        Found __fpclass
+          Referenced in libucrt.lib(powhlp.obj)
+          Loaded libucrt.lib(ieeemisc.obj)
+        Found _ldexp
+          Referenced in libucrt.lib(ieeemisc.obj)
+          Loaded libucrt.lib(ldexp.obj)
+        Found _nextafter
+          Referenced in libucrt.lib(ieeemisc.obj)
+          Loaded libucrt.lib(nextafter.obj)
+        Found _nexttoward
+          Referenced in libucrt.lib(nextafter.obj)
+          Loaded libucrt.lib(nexttoward.obj)
+        Found __fperrraise
+          Referenced in libucrt.lib(nexttoward.obj)
+          Loaded libucrt.lib(_test.obj)
+        Found _fegetexceptflag
+          Referenced in libucrt.lib(_test.obj)
+          Loaded libucrt.lib(fegetexceptflag.obj)
+        Found _fesetexceptflag
+          Referenced in libucrt.lib(_test.obj)
+          Loaded libucrt.lib(fesetexceptflag.obj)
+        Found _fetestexcept
+          Referenced in libucrt.lib(fesetexceptflag.obj)
+          Loaded libucrt.lib(fetestexcept.obj)
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbc32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbccp32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\kernel32.lib:
+        Found __imp__UnhandledExceptionFilter@4
+          Referenced in LIBCMT.lib(gs_report.obj)
+          Referenced in LIBCMT.lib(utility_desktop.obj)
+          Referenced in libucrt.lib(invalid_parameter.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__SetUnhandledExceptionFilter@4
+          Referenced in LIBCMT.lib(gs_report.obj)
+          Referenced in LIBCMT.lib(utility_desktop.obj)
+          Referenced in libucrt.lib(invalid_parameter.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found _IsProcessorFeaturePresent@4
+          Referenced in LIBCMT.lib(gs_report.obj)
+          Referenced in LIBCMT.lib(utility_desktop.obj)
+          Referenced in LIBCMT.lib(cpu_disp.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__QueryPerformanceCounter@4
+          Referenced in LIBCMT.lib(gs_support.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetCurrentProcessId@0
+          Referenced in LIBCMT.lib(gs_support.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetCurrentThreadId@0
+          Referenced in LIBCMT.lib(gs_support.obj)
+          Referenced in libucrt.lib(per_thread_data.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetSystemTimeAsFileTime@4
+          Referenced in LIBCMT.lib(gs_support.obj)
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__InitializeSListHead@4
+          Referenced in LIBCMT.lib(tncleanup.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__IsDebuggerPresent@0
+          Referenced in LIBCMT.lib(utility_desktop.obj)
+          Referenced in libucrt.lib(invalid_parameter.obj)
+          Referenced in libucrt.lib(crtmbox.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetStartupInfoW@4
+          Referenced in LIBCMT.lib(utility_desktop.obj)
+          Referenced in libucrt.lib(ioinit.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetModuleHandleW@4
+          Referenced in LIBCMT.lib(utility_desktop.obj)
+          Referenced in libucrt.lib(exit.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__RaiseException@16
+          Referenced in libvcruntime.lib(throw.obj)
+          Referenced in libucrt.lib(fpexcept.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__InterlockedPushEntrySList@8
+          Referenced in libvcruntime.lib(std_type_info.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__InterlockedFlushSList@4
+          Referenced in libvcruntime.lib(std_type_info.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found _RtlUnwind@16
+          Referenced in libvcruntime.lib(longjmp.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__SetLastError@4
+          Referenced in libvcruntime.lib(per_thread_data.obj)
+          Referenced in libucrt.lib(per_thread_data.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__EnterCriticalSection@4
+          Referenced in libvcruntime.lib(locks.obj)
+          Referenced in libucrt.lib(_file.obj)
+          Referenced in libucrt.lib(locks.obj)
+          Referenced in libucrt.lib(osfinfo.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__LeaveCriticalSection@4
+          Referenced in libvcruntime.lib(locks.obj)
+          Referenced in libucrt.lib(_file.obj)
+          Referenced in libucrt.lib(locks.obj)
+          Referenced in libucrt.lib(osfinfo.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__DeleteCriticalSection@4
+          Referenced in libucrt.lib(osfinfo.obj)
+          Referenced in libvcruntime.lib(locks.obj)
+          Referenced in libucrt.lib(_file.obj)
+          Referenced in libucrt.lib(closeall.obj)
+          Referenced in libucrt.lib(locks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__InitializeCriticalSectionAndSpinCount@8
+          Referenced in libvcruntime.lib(winapi_downlevel.obj)
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__TlsAlloc@0
+          Referenced in libvcruntime.lib(winapi_downlevel.obj)
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__TlsGetValue@4
+          Referenced in libvcruntime.lib(winapi_downlevel.obj)
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__TlsSetValue@8
+          Referenced in libvcruntime.lib(winapi_downlevel.obj)
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__TlsFree@4
+          Referenced in libvcruntime.lib(winapi_downlevel.obj)
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__FreeLibrary@4
+          Referenced in libvcruntime.lib(winapi_downlevel.obj)
+          Referenced in libucrt.lib(exit.obj)
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetProcAddress@8
+          Referenced in libvcruntime.lib(winapi_downlevel.obj)
+          Referenced in libucrt.lib(exit.obj)
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__LoadLibraryExW@12
+          Referenced in libvcruntime.lib(winapi_downlevel.obj)
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__EncodePointer@4
+          Referenced in libvcruntime.lib(frame.obj)
+          Referenced in libucrt.lib(libm_error.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__ExitProcess@4
+          Referenced in libucrt.lib(exit.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetModuleHandleExW@12
+          Referenced in libucrt.lib(exit.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__Beep@8
+          Referenced in libucrt.lib(slbeep.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetModuleFileNameW@12
+          Referenced in libucrt.lib(report_runtime_error.obj)
+          Referenced in libucrt.lib(argv_parsing.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetModuleFileNameA@12
+          Referenced in libucrt.lib(argv_parsing.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__MultiByteToWideChar@24
+          Referenced in libucrt.lib(string_utilities.obj)
+          Referenced in libucrt.lib(lcmapstringa.obj)
+          Referenced in libucrt.lib(multibytetowidechar.obj)
+          Referenced in libucrt.lib(comparestringa.obj)
+          Referenced in libucrt.lib(environment_initialization.obj)
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Referenced in libucrt.lib(read.obj)
+          Referenced in libucrt.lib(getstringtypea.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__WideCharToMultiByte@32
+          Referenced in libucrt.lib(lcmapstringa.obj)
+          Referenced in libucrt.lib(widechartomultibyte.obj)
+          Referenced in libucrt.lib(getlocaleinfoa.obj)
+          Referenced in libucrt.lib(environment_initialization.obj)
+          Referenced in libucrt.lib(write.obj)
+          Referenced in libucrt.lib(get_environment_from_os.obj)
+          Referenced in libucrt.lib(string_utilities.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetCommandLineA@0
+          Referenced in libucrt.lib(argv_data.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetCommandLineW@0
+          Referenced in libucrt.lib(argv_data.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetACP@0
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Referenced in libucrt.lib(mbctype.obj)
+          Referenced in libucrt.lib(get_qualified_locale.obj)
+          Referenced in libucrt.lib(getqloc_downlevel.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__CreateFileW@28
+          Referenced in libucrt.lib(open.obj)
+          Referenced in libucrt.lib(initconin.obj)
+          Referenced in libucrt.lib(initcon.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetFileType@4
+          Referenced in libucrt.lib(open.obj)
+          Referenced in libucrt.lib(ioinit.obj)
+          Referenced in libucrt.lib(osfinfo.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetConsoleMode@8
+          Referenced in libucrt.lib(read.obj)
+          Referenced in libucrt.lib(write.obj)
+          Referenced in libucrt.lib(initconin.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__ReadConsoleW@20
+          Referenced in libucrt.lib(read.obj)
+          Referenced in libucrt.lib(initconin.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetConsoleCP@0
+          Referenced in libucrt.lib(write.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__HeapFree@12
+          Referenced in libucrt.lib(free_base.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__HeapAlloc@12
+          Referenced in libucrt.lib(malloc_base.obj)
+          Referenced in libucrt.lib(calloc_base.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetCurrentThread@0
+          Referenced in libucrt.lib(per_thread_data.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__OutputDebugStringA@4
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__OutputDebugStringW@4
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetDateFormatW@24
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetTimeFormatW@24
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__CompareStringW@24
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__LCMapStringW@24
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetLocaleInfoW@16
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Referenced in libucrt.lib(getqloc_downlevel.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__IsValidLocale@8
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Referenced in libucrt.lib(getqloc_downlevel.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetUserDefaultLCID@0
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Referenced in libucrt.lib(getqloc_downlevel.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__EnumSystemLocalesW@8
+          Referenced in libucrt.lib(winapi_thunks.obj)
+          Referenced in libucrt.lib(getqloc_downlevel.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__SetStdHandle@8
+          Referenced in libucrt.lib(osfinfo.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__FlushFileBuffers@4
+          Referenced in libucrt.lib(commit.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__FindClose@4
+          Referenced in libucrt.lib(argv_wildcards.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__FindFirstFileExA@24
+          Referenced in libucrt.lib(argv_wildcards.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__FindFirstFileExW@24
+          Referenced in libucrt.lib(argv_wildcards.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__FindNextFileA@8
+          Referenced in libucrt.lib(argv_wildcards.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__FindNextFileW@8
+          Referenced in libucrt.lib(argv_wildcards.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__IsValidCodePage@4
+          Referenced in libucrt.lib(mbctype.obj)
+          Referenced in libucrt.lib(get_qualified_locale.obj)
+          Referenced in libucrt.lib(getqloc_downlevel.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetOEMCP@0
+          Referenced in libucrt.lib(mbctype.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetCPInfo@8
+          Referenced in libucrt.lib(mbctype.obj)
+          Referenced in libucrt.lib(initctype.obj)
+          Referenced in libucrt.lib(comparestringa.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetEnvironmentStringsW@0
+          Referenced in libucrt.lib(get_environment_from_os.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__FreeEnvironmentStringsW@4
+          Referenced in libucrt.lib(get_environment_from_os.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__SetEnvironmentVariableA@8
+          Referenced in libucrt.lib(setenv.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__SetEnvironmentVariableW@8
+          Referenced in libucrt.lib(setenv.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetStringTypeW@16
+          Referenced in libucrt.lib(getstringtypea.obj)
+          Referenced in libucrt.lib(getstringtypew.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetProcessHeap@0
+          Referenced in libucrt.lib(heap_handle.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__SetConsoleCtrlHandler@8
+          Referenced in libucrt.lib(signal.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__SetEndOfFile@4
+          Referenced in libucrt.lib(chsize.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__SetFilePointerEx@20
+          Referenced in libucrt.lib(lseek.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__GetNumberOfConsoleInputEvents@8
+          Referenced in libucrt.lib(initconin.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__PeekConsoleInputA@16
+          Referenced in libucrt.lib(initconin.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__ReadConsoleInputA@16
+          Referenced in libucrt.lib(initconin.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__ReadConsoleInputW@16
+          Referenced in libucrt.lib(initconin.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__SetConsoleMode@8
+          Referenced in libucrt.lib(initconin.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__HeapSize@12
+          Referenced in libucrt.lib(msize.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__HeapReAlloc@16
+          Referenced in libucrt.lib(realloc_base.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__WriteConsoleW@20
+          Referenced in libucrt.lib(initcon.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp__DecodePointer@4
+          Referenced in libucrt.lib(libm_error.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\user32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\wsock32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winmm.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\gdi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winspool.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\comdlg32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\advapi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\shell32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\ole32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\oleaut32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\uuid.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\LIBCMT.lib:
+        Found __IsNonwritableInCurrentImage
+          Referenced in libvcruntime.lib(chandler4.obj)
+          Loaded LIBCMT.lib(pesect.obj)
+        Found __EH_epilog3
+          Referenced in libvcruntime.lib(undname.obj)
+          Referenced in libvcruntime.lib(frame.obj)
+          Loaded LIBCMT.lib(ehprolg3.obj)
+        Found __aulldvrm
+          Referenced in libucrt.lib(strtox.obj)
+          Referenced in libucrt.lib(cfout.obj)
+          Referenced in libvcruntime.lib(undname.obj)
+          Referenced in libucrt.lib(atox.obj)
+          Referenced in libucrt.lib(output.obj)
+          Referenced in libucrt.lib(xtoa.obj)
+          Loaded LIBCMT.lib(ulldvrm.obj)
+        Found __fltused
+          Referenced in libucrt.lib(nexttoward.obj)
+          Referenced in libucrt.lib(util.obj)
+          Referenced in libucrt.lib(ieeemisc.obj)
+          Referenced in libucrt.lib(ldexp.obj)
+          Referenced in libucrt.lib(nextafter.obj)
+          Referenced in libucrt.lib(powhlp.obj)
+          Referenced in libucrt.lib(87except.obj)
+          Referenced in libucrt.lib(frnd.obj)
+          Referenced in libucrt.lib(fpexcept.obj)
+          Referenced in libvcruntime.lib(undname.obj)
+          Referenced in libucrt.lib(cfout.obj)
+          Referenced in libucrt.lib(libm_error.obj)
+          Referenced in libucrt.lib(ceil.obj)
+          Loaded LIBCMT.lib(fltused.obj)
+        Found __allmul
+          Referenced in libucrt.lib(atox.obj)
+          Referenced in libucrt.lib(strtox.obj)
+          Referenced in libucrt.lib(cfout.obj)
+          Loaded LIBCMT.lib(llmul.obj)
+        Found __SEH_epilog4_GS
+          Referenced in libucrt.lib(exit.obj)
+          Referenced in libucrt.lib(terminate.obj)
+          Referenced in libucrt.lib(getch.obj)
+          Referenced in libucrt.lib(signal.obj)
+          Loaded LIBCMT.lib(sehprolg4gs.obj)
+        Found __alldvrm
+          Referenced in libucrt.lib(time.obj)
+          Referenced in libucrt.lib(cvt.obj)
+          Loaded LIBCMT.lib(lldvrm.obj)
+        Found __chkstk
+          Referenced in libucrt.lib(write.obj)
+          Loaded LIBCMT.lib(chkstk.obj)
+        Found __alloca_probe_16
+          Referenced in libucrt.lib(getlocaleinfoa.obj)
+          Referenced in libucrt.lib(getch.obj)
+          Referenced in libucrt.lib(getstringtypea.obj)
+          Referenced in libucrt.lib(lcmapstringa.obj)
+          Referenced in libucrt.lib(comparestringa.obj)
+          Loaded LIBCMT.lib(alloca16.obj)
+        Found __aullshr
+          Referenced in libucrt.lib(cvt.obj)
+          Loaded LIBCMT.lib(ullshr.obj)
+        Found __allshl
+          Referenced in libucrt.lib(cfout.obj)
+          Loaded LIBCMT.lib(llshl.obj)
+        Found __ftol2_sse
+          Referenced in libucrt.lib(cfout.obj)
+          Loaded LIBCMT.lib(ftol2.obj)
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\OLDNAMES.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\libvcruntime.lib:
+        Found _memcmp
+          Referenced in libucrt.lib(wsetlocale.obj)
+          Loaded libvcruntime.lib(memcmp.obj)
+        Found _strrchr
+          Referenced in libucrt.lib(cvt.obj)
+          Loaded libvcruntime.lib(strrchr.obj)
+        Found _wcschr
+          Referenced in libucrt.lib(setenv.obj)
+          Referenced in libucrt.lib(get_qualified_locale.obj)
+          Loaded libvcruntime.lib(wcschr.obj)
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\ucrt\x86\libucrt.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbc32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbccp32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\kernel32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\user32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\wsock32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winmm.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\gdi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winspool.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\comdlg32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\advapi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\shell32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\ole32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\oleaut32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\uuid.lib:
+  Finished searching libraries
+  Searching libraries
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbc32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbccp32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\kernel32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\user32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\wsock32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winmm.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\gdi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winspool.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\comdlg32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\advapi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\shell32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\ole32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\oleaut32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\uuid.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\LIBCMT.lib:
+        Found __filter_x86_sse2_floating_point_exception_default
+          Loaded LIBCMT.lib(x86_exception_filter.obj)
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\OLDNAMES.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\libvcruntime.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\ucrt\x86\libucrt.lib:
+  Finished searching libraries
+  Searching libraries
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbc32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbccp32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\kernel32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\user32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\wsock32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winmm.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\gdi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winspool.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\comdlg32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\advapi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\shell32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\ole32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\oleaut32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\uuid.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\LIBCMT.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\OLDNAMES.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\libvcruntime.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\ucrt\x86\libucrt.lib:
+  Finished searching libraries
+  Searching libraries
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbc32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbccp32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\kernel32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\user32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\wsock32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winmm.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\gdi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winspool.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\comdlg32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\advapi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\shell32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\ole32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\oleaut32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\uuid.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\LIBCMT.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\OLDNAMES.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\libvcruntime.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\ucrt\x86\libucrt.lib:
+  Finished searching libraries
+  Finished pass 1
+  Searching libraries
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbc32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbccp32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\kernel32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\user32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\wsock32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winmm.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\gdi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winspool.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\comdlg32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\advapi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\shell32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\ole32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\oleaut32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\uuid.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\LIBCMT.lib:
+        Found __load_config_used
+          Loaded LIBCMT.lib(loadcfg.obj)
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\OLDNAMES.lib:
+      Searching H:\Microsoft VS 2019\2019\Professional\VC\Tools\MSVC\14.28.29333\lib\x86\libvcruntime.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\ucrt\x86\libucrt.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbc32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbccp32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\kernel32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\user32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\wsock32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winmm.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\gdi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winspool.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\comdlg32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\advapi32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\shell32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\ole32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\oleaut32.lib:
+      Searching D:\Windows Kits\10\lib\10.0.16299.0\um\x86\uuid.lib:
+  Finished searching libraries
+  Invoking rc.exe:
+   /v
+   /x
+   /fo
+   "C:\Users\fochoao\AppData\Local\Temp\lnk{12B50697-B4D4-46F5-882C-0D80A3D95F03}.tmp"
+   "C:\Users\fochoao\AppData\Local\Temp\lnk{9F2D2765-581F-46AD-A63B-59B38B2F9500}.tmp"
+  Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+  
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  
+  Creating C:\Users\fochoao\AppData\Local\Temp\lnk{12B50697-B4D4-46F5-882C-0D80A3D95F03}.tmp
+  
+  Using codepage 1252 as default
+  
+  C:\Users\fochoao\AppData\Local\Temp\lnk{9F2D2765-581F-46AD-A63B-59B38B2F9500}.tmp.
+  Writing 24:1,	lang:0x409,	size 381
+  Invoking cvtres.exe:
+   /machine:x86
+   /verbose
+   /out:"C:\Users\fochoao\AppData\Local\Temp\lnk{B5597372-B625-4A44-8D08-E32F7CC5A0C3}.tmp"
+   /readonly
+   "C:\Users\fochoao\AppData\Local\Temp\lnk{12B50697-B4D4-46F5-882C-0D80A3D95F03}.tmp"
+  Microsoft (R) Windows Resource To Object Converter Version 14.28.29336.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  adding resource. type:MANIFEST, name:1, language:0x0409, flags:0x30, size:381
+  Unused libraries:
+    D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbc32.lib
+    D:\Windows Kits\10\lib\10.0.16299.0\um\x86\odbccp32.lib
+    D:\Windows Kits\10\lib\10.0.16299.0\um\x86\user32.lib
+    D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winmm.lib
+    D:\Windows Kits\10\lib\10.0.16299.0\um\x86\gdi32.lib
+    D:\Windows Kits\10\lib\10.0.16299.0\um\x86\winspool.lib
+    D:\Windows Kits\10\lib\10.0.16299.0\um\x86\comdlg32.lib
+    D:\Windows Kits\10\lib\10.0.16299.0\um\x86\advapi32.lib
+    D:\Windows Kits\10\lib\10.0.16299.0\um\x86\shell32.lib
+    D:\Windows Kits\10\lib\10.0.16299.0\um\x86\ole32.lib
+    D:\Windows Kits\10\lib\10.0.16299.0\um\x86\oleaut32.lib
+    D:\Windows Kits\10\lib\10.0.16299.0\um\x86\uuid.lib
+  Starting pass 2
+       * linker generated manifest res *
+       twofish2.obj
+       NETCAT.obj
+       getopt.obj
+       farm9crypt.obj
+       doexec.obj
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       wsock32.lib(WSOCK32.dll)
+       LIBCMT.lib(sehprolg4.obj)
+       LIBCMT.lib(sehprolg4gs.obj)
+       LIBCMT.lib(ftol2.obj)
+       LIBCMT.lib(lldvrm.obj)
+       LIBCMT.lib(llmul.obj)
+       LIBCMT.lib(llshl.obj)
+       LIBCMT.lib(ulldvrm.obj)
+       LIBCMT.lib(ullshr.obj)
+       LIBCMT.lib(alloca16.obj)
+       LIBCMT.lib(chkstk.obj)
+       LIBCMT.lib(gs_cookie.obj)
+       LIBCMT.lib(gs_report.obj)
+       LIBCMT.lib(gs_support.obj)
+       LIBCMT.lib(guard_support.obj)
+       LIBCMT.lib(loadcfg.obj)
+       LIBCMT.lib(pesect.obj)
+       LIBCMT.lib(dyn_tls_dtor.obj)
+       LIBCMT.lib(dyn_tls_init.obj)
+       LIBCMT.lib(matherr_detection.obj)
+       LIBCMT.lib(ucrt_detection.obj)
+       LIBCMT.lib(cpu_disp.obj)
+       LIBCMT.lib(ehprolg3.obj)
+       LIBCMT.lib(secchk.obj)
+       LIBCMT.lib(argv_mode.obj)
+       LIBCMT.lib(commit_mode.obj)
+       LIBCMT.lib(default_local_stdio_options.obj)
+       LIBCMT.lib(denormal_control.obj)
+       LIBCMT.lib(env_mode.obj)
+       LIBCMT.lib(file_mode.obj)
+       LIBCMT.lib(fltused.obj)
+       LIBCMT.lib(invalid_parameter_handler.obj)
+       LIBCMT.lib(matherr.obj)
+       LIBCMT.lib(new_mode.obj)
+       LIBCMT.lib(thread_locale.obj)
+       LIBCMT.lib(std_type_info_static.obj)
+       LIBCMT.lib(tncleanup.obj)
+       LIBCMT.lib(delete_scalar.obj)
+       LIBCMT.lib(delete_scalar_size.obj)
+       LIBCMT.lib(new_scalar.obj)
+       LIBCMT.lib(throw_bad_alloc.obj)
+       LIBCMT.lib(exe_main.obj)
+       LIBCMT.lib(initializers.obj)
+       LIBCMT.lib(utility.obj)
+       LIBCMT.lib(utility_desktop.obj)
+       LIBCMT.lib(initsect.obj)
+       LIBCMT.lib(default_precision.obj)
+       LIBCMT.lib(x86_exception_filter.obj)
+       OLDNAMES.lib(kbhit.obj)
+       OLDNAMES.lib(close.obj)
+       OLDNAMES.lib(read.obj)
+       OLDNAMES.lib(write.obj)
+       OLDNAMES.lib(itoa.obj)
+       OLDNAMES.lib(strnicmp.obj)
+       OLDNAMES.lib(dup.obj)
+       OLDNAMES.lib(open.obj)
+       OLDNAMES.lib(strcmpi.obj)
+       libvcruntime.lib(exsup.obj)
+       libvcruntime.lib(exsup4.obj)
+       libvcruntime.lib(longjmp.obj)
+       libvcruntime.lib(lowhelpr.obj)
+       libvcruntime.lib(setjmp3.obj)
+       libvcruntime.lib(memcpy.obj)
+       libvcruntime.lib(memmove.obj)
+       libvcruntime.lib(memset.obj)
+       libvcruntime.lib(strchr.obj)
+       libvcruntime.lib(strrchr.obj)
+       libvcruntime.lib(jbcxrval.obj)
+       libvcruntime.lib(longjmpc.obj)
+       libvcruntime.lib(chandler4.obj)
+       libvcruntime.lib(sehsupp.obj)
+       libvcruntime.lib(memcmp.obj)
+       libvcruntime.lib(wcschr.obj)
+       libvcruntime.lib(ehhelpers.obj)
+       libvcruntime.lib(frame.obj)
+       libvcruntime.lib(std_exception.obj)
+       libvcruntime.lib(std_type_info.obj)
+       libvcruntime.lib(throw.obj)
+       libvcruntime.lib(unexpected.obj)
+       libvcruntime.lib(initialization.obj)
+       libvcruntime.lib(locks.obj)
+       libvcruntime.lib(per_thread_data.obj)
+       libvcruntime.lib(winapi_downlevel.obj)
+       libvcruntime.lib(purevirt.obj)
+       libvcruntime.lib(purevirt_data.obj)
+       libvcruntime.lib(undname.obj)
+       libvcruntime.lib(ehstate.obj)
+       libvcruntime.lib(trnsctrl.obj)
+       libucrt.lib(ieeemisc.obj)
+       libucrt.lib(mathfcns.obj)
+       libucrt.lib(log10_tables.obj)
+       libucrt.lib(libm_error.obj)
+       libucrt.lib(ieee87.obj)
+       libucrt.lib(frnd.obj)
+       libucrt.lib(fpctrl.obj)
+       libucrt.lib(ceil.obj)
+       libucrt.lib(87except.obj)
+       libucrt.lib(slbeep.obj)
+       libucrt.lib(mbsdec.obj)
+       libucrt.lib(ismbbyte.obj)
+       libucrt.lib(console_output_initializer.obj)
+       libucrt.lib(console_input_initializer.obj)
+       libucrt.lib(setenv.obj)
+       libucrt.lib(get_environment_from_os.obj)
+       libucrt.lib(getenv.obj)
+       libucrt.lib(environment_initialization.obj)
+       libucrt.lib(time.obj)
+       libucrt.lib(write.obj)
+       libucrt.lib(umask.obj)
+       libucrt.lib(txtmode.obj)
+       libucrt.lib(setmode.obj)
+       libucrt.lib(read.obj)
+       libucrt.lib(osfinfo.obj)
+       libucrt.lib(open.obj)
+       libucrt.lib(lseek.obj)
+       libucrt.lib(isatty.obj)
+       libucrt.lib(ioinit.obj)
+       libucrt.lib(dup.obj)
+       libucrt.lib(commit.obj)
+       libucrt.lib(close.obj)
+       libucrt.lib(chsize.obj)
+       libucrt.lib(putwch.obj)
+       libucrt.lib(putch.obj)
+       libucrt.lib(initconin.obj)
+       libucrt.lib(initcon.obj)
+       libucrt.lib(getch.obj)
+       libucrt.lib(_test.obj)
+       libucrt.lib(_fenvutils.obj)
+       libucrt.lib(util.obj)
+       libucrt.lib(powhlp.obj)
+       libucrt.lib(nexttoward.obj)
+       libucrt.lib(nextafter.obj)
+       libucrt.lib(matherr.obj)
+       libucrt.lib(log10_pentium4.obj)
+       libucrt.lib(log10_impl.obj)
+       libucrt.lib(ldexp.obj)
+       libucrt.lib(genexcep.obj)
+       libucrt.lib(fpexcept.obj)
+       libucrt.lib(fetestexcept.obj)
+       libucrt.lib(fesetexceptflag.obj)
+       libucrt.lib(fesetenv.obj)
+       libucrt.lib(feholdexcept.obj)
+       libucrt.lib(fegetexceptflag.obj)
+       libucrt.lib(fegetenv.obj)
+       libucrt.lib(contrlfp.obj)
+       libucrt.lib(common.obj)
+       libucrt.lib(ceil_pentium4.obj)
+       libucrt.lib(87tran.obj)
+       libucrt.lib(87disp.obj)
+       libucrt.lib(_strnicm.obj)
+       libucrt.lib(wcspbrk.obj)
+       libucrt.lib(wcsnicol.obj)
+       libucrt.lib(wcsnicmp.obj)
+       libucrt.lib(wcsncpy_s.obj)
+       libucrt.lib(wcsncmp.obj)
+       libucrt.lib(wcsicmp.obj)
+       libucrt.lib(wcscspn.obj)
+       libucrt.lib(wcscpy_s.obj)
+       libucrt.lib(wcscat_s.obj)
+       libucrt.lib(strpbrk.obj)
+       libucrt.lib(strnlen.obj)
+       libucrt.lib(strnicol.obj)
+       libucrt.lib(strnicmp.obj)
+       libucrt.lib(strncpy_s.obj)
+       libucrt.lib(strncpy.obj)
+       libucrt.lib(strncnt.obj)
+       libucrt.lib(strncmp.obj)
+       libucrt.lib(stricmp.obj)
+       libucrt.lib(strcpy_s.obj)
+       libucrt.lib(rand.obj)
+       libucrt.lib(qsort.obj)
+       libucrt.lib(_sftbuf.obj)
+       libucrt.lib(_getbuf.obj)
+       libucrt.lib(_freebuf.obj)
+       libucrt.lib(_flsbuf.obj)
+       libucrt.lib(_file.obj)
+       libucrt.lib(_filbuf.obj)
+       libucrt.lib(ungetc.obj)
+       libucrt.lib(stream.obj)
+       libucrt.lib(printf_count_output.obj)
+       libucrt.lib(output.obj)
+       libucrt.lib(ncommode.obj)
+       libucrt.lib(gets.obj)
+       libucrt.lib(fputwc.obj)
+       libucrt.lib(fputc.obj)
+       libucrt.lib(fileno.obj)
+       libucrt.lib(fgetwc.obj)
+       libucrt.lib(fgetc.obj)
+       libucrt.lib(fflush.obj)
+       libucrt.lib(fclose.obj)
+       libucrt.lib(closeall.obj)
+       libucrt.lib(onexit.obj)
+       libucrt.lib(initterm.obj)
+       libucrt.lib(exit.obj)
+       libucrt.lib(argv_wildcards.obj)
+       libucrt.lib(argv_parsing.obj)
+       libucrt.lib(argv_data.obj)
+       libucrt.lib(abort.obj)
+       libucrt.lib(terminate.obj)
+       libucrt.lib(signal.obj)
+       libucrt.lib(set_error_mode.obj)
+       libucrt.lib(invalid_parameter.obj)
+       libucrt.lib(exception_filter.obj)
+       libucrt.lib(errno.obj)
+       libucrt.lib(crtmbox.obj)
+       libucrt.lib(mbctype.obj)
+       libucrt.lib(wsetlocale.obj)
+       libucrt.lib(widechartomultibyte.obj)
+       libucrt.lib(nlsdata.obj)
+       libucrt.lib(multibytetowidechar.obj)
+       libucrt.lib(locale_update.obj)
+       libucrt.lib(locale_refcounting.obj)
+       libucrt.lib(localeconv.obj)
+       libucrt.lib(lcmapstringw.obj)
+       libucrt.lib(lcmapstringa.obj)
+       libucrt.lib(lcidtoname_downlevel.obj)
+       libucrt.lib(inittime.obj)
+       libucrt.lib(initnum.obj)
+       libucrt.lib(initmon.obj)
+       libucrt.lib(initctype.obj)
+       libucrt.lib(glstatus.obj)
+       libucrt.lib(get_qualified_locale.obj)
+       libucrt.lib(getstringtypew.obj)
+       libucrt.lib(getstringtypea.obj)
+       libucrt.lib(getqloc_downlevel.obj)
+       libucrt.lib(getlocaleinfoa.obj)
+       libucrt.lib(ctype.obj)
+       libucrt.lib(comparestringw.obj)
+       libucrt.lib(comparestringa.obj)
+       libucrt.lib(win_policies.obj)
+       libucrt.lib(winapi_thunks.obj)
+       libucrt.lib(string_utilities.obj)
+       libucrt.lib(shared_initialization.obj)
+       libucrt.lib(report_runtime_error.obj)
+       libucrt.lib(per_thread_data.obj)
+       libucrt.lib(locks.obj)
+       libucrt.lib(initialization.obj)
+       libucrt.lib(stdio_initializer.obj)
+       libucrt.lib(sse2_initializer.obj)
+       libucrt.lib(multibyte_initializer.obj)
+       libucrt.lib(locale_initializer.obj)
+       libucrt.lib(recalloc.obj)
+       libucrt.lib(realloc_base.obj)
+       libucrt.lib(new_mode.obj)
+       libucrt.lib(new_handler.obj)
+       libucrt.lib(msize.obj)
+       libucrt.lib(malloc_base.obj)
+       libucrt.lib(malloc.obj)
+       libucrt.lib(heap_handle.obj)
+       libucrt.lib(free_base.obj)
+       libucrt.lib(free.obj)
+       libucrt.lib(calloc_base.obj)
+       libucrt.lib(calloc.obj)
+       libucrt.lib(_wctype.obj)
+       libucrt.lib(_fptostr.obj)
+       libucrt.lib(_ctype.obj)
+       libucrt.lib(xtoa.obj)
+       libucrt.lib(wctomb.obj)
+       libucrt.lib(towlower.obj)
+       libucrt.lib(tolower_toupper.obj)
+       libucrt.lib(strtox.obj)
+       libucrt.lib(mbtowc.obj)
+       libucrt.lib(iswctype.obj)
+       libucrt.lib(isctype.obj)
+       libucrt.lib(fp_flags.obj)
+       libucrt.lib(cvt.obj)
+       libucrt.lib(cfout.obj)
+       libucrt.lib(atox.obj)
+  Finished pass 2
+  Failed to connect to VCTIP: 'CreateFile' failed with 2
+  Not launching VCTIP: it is flagged as unstable
+  Telemetry event upload failed: 'Failed to open connection to VCTIP'
+  cryptcat.vcxproj -> C:\Users\fochoao\source\repos\nt\Release\cryptcat.exe
